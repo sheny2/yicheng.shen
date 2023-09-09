@@ -5,7 +5,7 @@ cascade:
   show_post_date: true
   show_post_time: true
 description: |
-  This is a list for my awards, publications, invited conferences and all sorts of portfolio related to my professional and academic life. 
+  This is a list for my current and past projects related to my professional and academic life. 
 layout: list
 show_author_byline: true
 show_button_links: true

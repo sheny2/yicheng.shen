@@ -71,15 +71,6 @@
     <loc>https://yichengshen.netlify.app/categories/evergreen/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yichengshen.netlify.app/accomplishment/campfire/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yichengshen.netlify.app/accomplishment/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://yichengshen.netlify.app/categories/workshop/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://yichengshen.netlify.app/series/a-spoonful-of-hugo/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -98,16 +89,19 @@
     <loc>https://yichengshen.netlify.app/blog/seedling/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yichengshen.netlify.app/accomplishment/second-seedling/</loc>
+    <loc>https://yichengshen.netlify.app/accomplishment/eva/</loc>
     <lastmod>2021-01-01T14:15:59-06:00</lastmod>
   </url><url>
     <loc>https://yichengshen.netlify.app/categories/meetup/</loc>
     <lastmod>2021-01-01T14:15:59-06:00</lastmod>
   </url><url>
+    <loc>https://yichengshen.netlify.app/accomplishment/</loc>
+    <lastmod>2021-01-01T14:15:59-06:00</lastmod>
+  </url><url>
     <loc>https://yichengshen.netlify.app/blog/rmarkdown/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://yichengshen.netlify.app/accomplishment/seedling/</loc>
+    <loc>https://yichengshen.netlify.app/accomplishment/ideal/</loc>
     <lastmod>2020-01-13T14:15:59-06:00</lastmod>
   </url><url>
     <loc>https://yichengshen.netlify.app/project/</loc>
@@ -142,5 +136,7 @@
     <loc>https://yichengshen.netlify.app/contributors/</loc>
   </url><url>
     <loc>https://yichengshen.netlify.app/license/</loc>
+  </url><url>
+    <loc>https://yichengshen.netlify.app/projects/</loc>
   </url>
 </urlset>
