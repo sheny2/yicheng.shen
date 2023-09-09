@@ -1,17 +1,18 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
+title: "My Life" # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
-show_outro: true
-outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+  I grew up in Wuxi, a relatively small (nickname "little Shanghai") but definitely beautiful and fast-developing city in eastern China. With passion to explore the unknown and various interesting parts of the world, I went to Carleton College in the U.S. for my undergraduate education. The four-year experience of living and studying in Northfield, Minnesota is such an inspiring, meaningful and memorable journey for me both mentally and psychically. I obtained my B.A. degree in both Statistics and Political Science and graduated with Magna Cum Laude in 2022. My senior theses in both disciplines (advised by Dr. Andy Poppick and Dr. Greg Marfleet) received the honor of distinctions. 
+  
+  Currently I am a second-year M.S. student in Statistical Science at Duke University. In addition to my rigorous coursework, I have actively collaborated on research projects under the guidance of Dr. Alexander Volfovsky and Dr. Hwanhee Hong. These academic experiences have ignited my passion for exploring intricate topics, including ideal point estimation methods, the practical applications and diagnostics of Bayesian hierarchical modeling, and the complexities of causal inference problems. I am acutely aware of the boundless knowledge and challenges that lie ahead in these expansive fields, which continually drive me to dedicate unwavering effort to my academic pursuits.
+  
+  Apart from academic work, my hobbies are karate, cooking, volunteer work and book preservation.
+  
 ---
 
 ** index doesn't contain a body, just front matter above.

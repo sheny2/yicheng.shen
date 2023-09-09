@@ -2,18 +2,14 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
+description: Yicheng Shen (he/him/his) is a motivated, research-oriented graduate student pursuing M.S. in Statistical Science at Duke University. He is very interested in topics such as network meta-analysis, power analysis, social network analysis, (Bayesian) hierarchical modeling and diagnostic, latent factor analysis, extreme value analysis and causal inference. He also loves to explore the intersection of statistics and social sciences and has participated in several applied quantitative social science projects over the past years.
 image_left: true
 images:
 - image_prof.jpeg
 show_action_link: true
 show_social_links: true
 subtitle: Be all your can be.
-text_align_left: false
+text_align_left: true
 title: Yicheng Shen
 type: home
 ---
