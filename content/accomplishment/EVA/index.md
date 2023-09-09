@@ -8,7 +8,7 @@ draft: false
 excerpt: Yet another idea
 layout: single
 location: Online
-subtitle: Testing
-title: A seedling
+subtitle: An Extreme Value Analysis of Air Pollution in Minnesota
+title: Behind the Smoke
 ---
 

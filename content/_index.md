@@ -8,7 +8,7 @@ images:
 - image_prof.jpeg
 show_action_link: true
 show_social_links: true
-subtitle: Be all your can be.
+subtitle: Be all you can be.
 text_align_left: true
 title: Yicheng Shen
 type: home
