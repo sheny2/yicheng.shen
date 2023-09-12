@@ -4,7 +4,7 @@ date: "2020-01-01"
 draft: false
 event: 
 event_url: 
-excerpt: This is general portfolio documenting some of the interesting coding work that I have done (both individually and collaboratively) over time. No guarantee that they are statistically related.
+excerpt: This is a general portfolio documenting some of the interesting coding works that I have done (both individually and collaboratively) over time. No guarantee that they are statistically related. 
 featured: true
 layout: single
 location: Northfield, MN
